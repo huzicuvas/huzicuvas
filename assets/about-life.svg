@@ -19,10 +19,9 @@ text { font-family:'JetBrains Mono', monospace; }
 <g class="fade" style="animation-delay:.3s"><text x="60" y="366" font-size="17" fill="#247bff">03</text><text class="display" x="108" y="366" font-size="25" fill="#f4f6fb">Digital products</text><text x="108" y="394" font-size="15.5" fill="#9aa7c2">Planners built to list: 118-page Focus Planner, $7.99.</text></g>
 <g class="fade" style="animation-delay:.4s"><text x="60" y="458" font-size="17" fill="#247bff">04</text><text class="display" x="108" y="458" font-size="25" fill="#f4f6fb">CMS &amp; Shopify</text><text x="108" y="486" font-size="15.5" fill="#9aa7c2">WordPress, Wix, Odoo. Shopify personalisation for clients.</text></g>
 
-<g class="fade" style="animation-delay:.3s">
-  <rect x="660" y="52" width="480" height="436" rx="24" fill="#0d1326" stroke="#1d2a4a"/>
+   rx="24" fill="#0d1326" stroke="#1d2a4a"/>
   <text x="700" y="102" font-size="15" letter-spacing="4" fill="#ff354f">LIFE, OFF THE KEYBOARD</text>
-  <text x="700" y="140" font-size="17" fill="#9aa7c2">Three things I keep coming back to &#8212; 4s each.</text>
+  <text x="700" y="140" font-size="17" fill="#9aa7c2">Three things I keep coming back to &#8212; <br> 4s each.</text>
   <rect x="700" y="196" width="120" height="7" rx="3.5" fill="#247bff"><animate attributeName="width" values="120;120;120;0" keyTimes="0;0.333;0.666;1" dur="12s" begin="0s" repeatCount="indefinite"/></rect><rect x="700" y="196" width="120" height="7" rx="3.5" fill="none" stroke="#1d2a4a"/>
 <rect x="836" y="196" width="0" height="7" rx="3.5" fill="#247bff"><animate attributeName="width" values="0;120;120;0" keyTimes="0;0.333;0.666;1" dur="12s" begin="0s" repeatCount="indefinite"/></rect><rect x="836" y="196" width="120" height="7" rx="3.5" fill="none" stroke="#1d2a4a"/>
 <rect x="972" y="196" width="0" height="7" rx="3.5" fill="#247bff"><animate attributeName="width" values="0;0;120;0" keyTimes="0;0.333;0.666;1" dur="12s" begin="0s" repeatCount="indefinite"/></rect><rect x="972" y="196" width="120" height="7" rx="3.5" fill="none" stroke="#1d2a4a"/>
