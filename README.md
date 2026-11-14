@@ -19,7 +19,7 @@
 
 ![Connect — find me here](assets/connect.svg?v=2)
 
-**Find me here:** [TikTok — @huzisial1](https://www.tiktok.com/@huzisial4) · [Instagram — @huzisial](https://www.instagram.com/huzisial) · [Facebook — @huzisial](https://www.facebook.com/huzisial) · [Email](mailto:huzaifasyail219@protonmail.com) · [GitHub — huzicuvas](https://github.com/huzicuvas)
+**Find me here:** [TikTok — @huzisial14](https://www.tiktok.com/@huzisial4) · [Instagram — @huzisial](https://www.instagram.com/huzisial) · [Facebook — @huzisial](https://www.facebook.com/huzisial) · [Email](mailto:huzaifasyail219@protonmail.com) · [GitHub — huzicuvas](https://github.com/huzicuvas)
 
 > Numbers shown in the images were checked on GitHub on 14 Nov 2026 (8 public repos).
 > No LinkedIn, YouTube or Topmate links are listed — none were supplied, so none were guessed.
